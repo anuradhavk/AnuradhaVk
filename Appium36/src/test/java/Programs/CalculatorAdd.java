@@ -13,6 +13,7 @@ import io.appium.java_client.remote.MobileCapabilityType;
 import io.appium.java_client.touch.TapOptions;
 import io.appium.java_client.touch.offset.ElementOption;
 //anuradha roopa hillllllllllllllllllllllll
+//pull request
 public class CalculatorAdd {
 	public void  performAddition() throws MalformedURLException, InterruptedException {
 		DesiredCapabilities dc=new DesiredCapabilities();
